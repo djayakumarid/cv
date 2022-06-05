@@ -40,7 +40,7 @@
   }
 
   h1{
-    color: #66BFBF;
+    color: black; /*#66BFBF;*/
     font-family: 'Sacramento', cursive;
     font-size: 3rem;
     margin: 0px;
@@ -49,16 +49,16 @@
   }
 
   h2{
-    color: #66BFBF;
+    color: black; /*#66BFBF;*/
     font-family: 'Montserrat', sans-serif;
-    font-size: 2rem;
+    font-size: 1.4rem;
     margin: 0px;
     font-weight:bold;
     display: inline;
   }
 
   h3{
-    color: #11999E;
+    color: black; /*#11999E;*/
     font-family: 'Montserrat', sans-serif;
     margin: 0px;
     font-weight: bolder;
