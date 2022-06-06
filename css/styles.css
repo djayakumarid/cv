@@ -11,7 +11,7 @@
     position: relative;
     text-align: left;
     font-family: 'Merriweather', serif;
-    font-size: 0.85rem;
+    font-size: 1rem;
   }
 
   div.top-div-container{
@@ -56,7 +56,7 @@
   h2{
     color: #66BFBF;
     font-family: 'Montserrat', sans-serif;
-    font-size: 1.4rem;
+    font-size: 1.5rem;
     margin: 0px;
     font-weight:bold;
     display: inline;
@@ -64,7 +64,7 @@
 
   h3{
     color: #11999E;
-    font-size: 1rem;
+    font-size: 1.5rem;
     font-family: 'Montserrat', sans-serif;
     margin: 0px;
     font-weight: bolder;
@@ -120,6 +120,7 @@
     font-family: Arial;
     margin-left:0%;
     text-decoration: none;
+    font-size: 1.5rem;
   }
 
   a:hover{
